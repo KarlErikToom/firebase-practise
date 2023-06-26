@@ -1,0 +1,31 @@
+.btn{
+  padding: 12px 24px;
+  margin: 12px;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.invalid{
+  display: none;
+}
+
+.user{
+  padding: 12px 18px;
+  background-color: rgb(180, 55, 180);
+  font-weight: bold;
+  color: white;
+  border: none;
+  font-size: 25px;
+  border-radius: 70px;
+  
+}
+
+.loading-state {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-color: #ccc;
+  border-radius: 50%;
+}
